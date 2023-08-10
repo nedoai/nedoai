@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @nedoai
 ---
 In my repo:
-· Ai sources code.
-· Pre-trained Ai sources code.
+- Ai sources code.
+- Pre-trained Ai sources code.
 ---
 
 <!---
